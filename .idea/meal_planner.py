@@ -15,4 +15,3 @@ while True:
     choice = input(": ")
 
     if choice == "0":
-        break
